@@ -6,4 +6,6 @@ This is **Team LK2022** experiment on the [Qur'an Question and Answering](https:
 The model that was used for this expriemnt is [Simple Transformers](https://simpletransformers.ai/). As for the pre-trained language model, we used [AraBERT V0.2](https://github.com/aub-mind/arabert)
 
 # Important note
-At the end of the experiment after creating the json file, please open the json file and add the opening curly bracket "{" at the beginning of the file and closing curly bracket "}" at the end of the file. Then, run the file on the submission_ckecker.py script.
+1. The notebook is designed to work on Google Colab.
+2. At the end of the experiment after creating the json file, please open the json file and add the opening curly bracket "{" at the beginning of the file and closing curly bracket "}" at the end of the file. Then, run the file on the submission_ckecker.py script.
+
