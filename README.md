@@ -7,5 +7,10 @@ The model that was used for this expriemnt is [Simple Transformers](https://simp
 
 # Important note
 1. The notebook is designed to work on Google Colab.
-2. At the end of the experiment after creating the json file, please open the json file and add the opening curly bracket "{" at the beginning of the file and closing curly bracket "}" at the end of the file. Then, run the file on the submission_ckecker.py script.
+2. At the end of the experiment after creating the json file, please consider the following:
+  A. open the json file, and
+  B. Add the opening curly bracket "{" at the beginning of the file, and
+  C. Remove the comma "," at the end of the file, and
+  D. Adding a closing curly bracket "}" at the end of the file. 
+  E. Then, run the file on the submission_ckecker.py script.
 
