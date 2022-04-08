@@ -1,4 +1,4 @@
-# Qur-an_QA
+# Quran_QA
 
 This is **Team LK2022** experiment on the [Qur'an Question and Answering](https://sites.google.com/view/quran-qa-2022) shared task on [OSCAT workshop](https://osact-lrec.github.io/) at [LREC conference](https://lrec2022.lrec-conf.org/en/).
 
