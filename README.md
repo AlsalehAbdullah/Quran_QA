@@ -1,9 +1,10 @@
 # Quran_QA
 
-This is **Team LK2022** experiment on the [Qur'an Question and Answering](https://sites.google.com/view/quran-qa-2022) shared task on [OSCAT workshop](https://osact-lrec.github.io/) at [LREC conference](https://lrec2022.lrec-conf.org/en/).
+This is **Team LK2022** code submission on the [Qur'an Question and Answering](https://sites.google.com/view/quran-qa-2022) shared task on [OSCAT workshop](https://osact-lrec.github.io/) at [LREC conference](https://lrec2022.lrec-conf.org/en/). Please refer to our [paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/OSACT/pdf/2022.osact-1.14.pdf).
 
-# Model and Language Model
+# QA Model and Language Model
 The model that was used for this expriemnt is [Simple Transformers](https://simpletransformers.ai/). As for the pre-trained language model, we used [AraBERT V0.2](https://github.com/aub-mind/arabert)
+
 
 # Important note
 - The notebook is designed to work on Google Colab.
